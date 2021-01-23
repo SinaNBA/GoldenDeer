@@ -1,0 +1,137 @@
+body,
+html {
+  height: 100%;
+  font-family: base;
+  font-size: base;
+}
+
+iframe {
+  margin-bottom: 2%;
+}
+
+.navbar {
+  background-color: white;
+}
+
+#brandGoldenDeer {
+  margin-left: 9%;
+  color: #ffca4b;
+  /* color: #f3ad0b; */
+  /* text-shadow: 4px 2px 5px black; */
+  text-shadow: 1px 1px 1px black;
+  font-weight: bold;
+  font-size: 27px;
+}
+
+#myNavbar {
+  margin-left: 25vw;
+}
+
+#myNavbar > ul > li > a {
+  color: #fcc23a;
+  text-shadow: 1px 1px 1px black;
+}
+
+/* .bg {
+    background: url('/Images/mine.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+/* .main_bg {
+    width: 100%;
+    height: 100%;
+    background: url('/Images/web0012323\ \(2\).png') no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;    
+} */
+/*.top_menu {
+    display: inline-block;
+    margin: 6.5% auto;
+    padding-left: 11.5%;
+    text-align: center;
+    list-style: none;
+}
+
+.top_menu>li {
+    float: left;
+}
+
+.top_menu>li>a {
+    display: block;
+    padding: 6px 50px;
+    text-transform: uppercase;
+
+} */
+
+/* .content {
+  margin-top: 3%;
+} */
+
+.main {
+  /* background-image: url(/Images/Papyrus.png);
+  background-repeat: no-repeat;
+  background-size: 88%; */
+  /* background-position: center; */
+  /* background-image: url(/Images/Papyrus.png); */
+  /* height: 80vh; */
+  /* margin-left: 7%; */
+  /* padding: 15% 5% 5% 5%; */
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 800;
+  /* height: 20px; */
+}
+
+#mainPara {
+  /* background-size: 100%;
+  background-repeat: no-repeat; */
+  /* position: absolute; */
+  /* right: 6vw; */
+  /* bottom: 12vh; */
+  /* margin-right: 100px; */
+  padding: 3%;
+  height: 30vw;
+  background-color: #f6bd60;
+  border-radius: 5px;
+  /* width: 50%; */
+  /* font-size: 3vw; */
+  overflow-y: auto;
+  /* text-align: center; */
+  line-height: 22px;
+  /* float: left; */
+  box-shadow: 10px 10px 5px grey;
+  font-size: 120%;
+}
+
+.angel {
+  /* float: right; */
+  /* position: absolute; */
+  /* bottom: 80px; */
+  height: 30vw;
+  width: 60vh;
+  /* margin-left: 120px; */
+  /* margin-top: 3%; */
+}
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #f1d063;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #eea812;
+}
