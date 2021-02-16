@@ -80,3 +80,8 @@ iframe {
 ::-webkit-scrollbar-thumb:hover {
   background: #eea812;
 }
+
+#goldendeerIcon {
+  display: block;
+  margin: auto;
+}
