@@ -46,10 +46,14 @@ iframe {
   font-weight: 700;
 }
 
-.angel {
+/* .angel {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
   height: 45vw;
   width: 35vw;
-}
+} */
 
 .pishy {
   border-radius: 10px;
@@ -57,6 +61,11 @@ iframe {
 
 .specs {
   margin-left: 5px;
+}
+
+#goldendeerIcon {
+  display: block;
+  margin: auto;
 }
 
 /* width */
@@ -79,9 +88,4 @@ iframe {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #eea812;
-}
-
-#goldendeerIcon {
-  display: block;
-  margin: auto;
 }
