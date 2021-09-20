@@ -33,6 +33,12 @@ iframe {
   text-shadow: 1px 1px 1px black;
 }
 
+.headers {
+  text-align: center;
+  margin-top: 10px;
+  
+}
+
 #mainPara {
   margin-top: 2vw;
   padding-top: 2%;
